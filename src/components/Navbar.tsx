@@ -1,7 +1,8 @@
-export default function HomePage() {
+export default function Navbar() {
     return (
+        
         <h1 style={{textAlign: "center"}}>
-            HOME PAGE
+            Navbar
         </h1>
     )
 }
